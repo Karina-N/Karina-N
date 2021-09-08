@@ -9,7 +9,7 @@ Databases: MongoDB (Mongoose) | MySQL
 
  
 :coffee:    ex-barista | make a mean flatwhite  
-:cocktail:    ex-bartender | to relax you after day of debugging   
+:cocktail:    ex-bartender | to relax you after a long day of debugging   
 :dress:    ex-fashion brand manager | reflected in my front-end 🙌  
 
 
