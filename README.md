@@ -1,16 +1,19 @@
-### Hi there 👋
+## Welcome!  👋
 
-<!--
-**Karina-N/Karina-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻    I am newly made full-stack web developer
 
-Here are some ideas to get you started:
+Languages: HTML | CSS | JavaScript | Fundamentals of PHP | Familiar with Java  
+Libraries: React.js  
+Frameworks: Express (Handlebars) | Symfony | Bootstrap  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Environments: Node.js  
+Databases: MongoDB (Mongoose) | MySQL  
+
+ 
+:coffee:    ex-barista | make a mean flatwhite  
+:cocktail:    ex-bartender | to relax you after day of debugging   
+:dress:    ex-fashion brand manager | reflected in my front-end 🙌  
+
+
+:handshake:    let's connect: https://www.linkedin.com/in/karinanarkeviciute/  
+:email:    Get in touch via email karina.narkeviciute@gmail.com
