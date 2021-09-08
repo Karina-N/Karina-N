@@ -4,9 +4,7 @@
 
 Languages: HTML | CSS | JavaScript | Fundamentals of PHP | Familiar with Java  
 Libraries: React.js  
-Frameworks: Express (Handlebars) | Symfony | Bootstrap  
-
-Environments: Node.js  
+Frameworks: Express (Handlebars) | Symfony | Bootstrap   
 Databases: MongoDB (Mongoose) | MySQL  
 
  
