@@ -14,4 +14,4 @@ Databases: MongoDB (Mongoose) | MySQL
 
 
 :handshake:    let's connect: https://www.linkedin.com/in/karinanarkeviciute/  
-:email:    Get in touch via email karina.narkeviciute@gmail.com
+:email:    get in touch via email karina.narkeviciute@gmail.com
