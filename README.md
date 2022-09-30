@@ -17,5 +17,7 @@ Databases: MongoDB (Mongoose) | MySQL
 
 Apps I've built:
 https://karina-n.github.io/can-you-taco-this/
+
 http://recipe-project2.herokuapp.com/
+
 https://meet-them-all.netlify.app/
