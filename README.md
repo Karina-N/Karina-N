@@ -16,6 +16,7 @@ Databases: MongoDB (Mongoose) | MySQL
 :email:    get in touch via email karina.narkeviciute@gmail.com
 
 Apps I've built:
+
 https://karina-n.github.io/can-you-taco-this/
 
 http://recipe-project2.herokuapp.com/
