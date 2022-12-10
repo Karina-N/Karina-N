@@ -19,6 +19,6 @@ Apps I've built:
 
 https://karina-n.github.io/can-you-taco-this/
 
-http://recipe-project2.herokuapp.com/
+https://somethings-cooking.adaptable.app/
 
 https://meet-them-all.netlify.app/
