@@ -2,10 +2,10 @@
 
 💻    I am a junior full-stack web developer
 
-Languages: HTML | CSS | JavaScript | | Fundamentals of Typescript | Fundamentals of PHP | Familiar with Java 
-Libraries: React
+Languages: HTML | CSS | JavaScript | Fundamentals of Typescript | Fundamentals of PHP | Familiar with Java  
+Libraries: React  
 Frameworks: Express (Handlebars) | Bootstrap   
-Databases: MongoDB (Mongoose) | MySQL  
+Databases: MongoDB (Mongoose) | MySQL   
 Other tools: Node | REST | Fundamentals of GraphQL
 
  
