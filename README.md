@@ -2,10 +2,11 @@
 
 💻    I am a junior full-stack web developer
 
-Languages: HTML | CSS | JavaScript | Fundamentals of PHP | Familiar with Java  
-Libraries: React.js  
-Frameworks: Express (Handlebars) | Symfony | Bootstrap   
+Languages: HTML | CSS | JavaScript | | Fundamentals of Typescript | Fundamentals of PHP | Familiar with Java 
+Libraries: React
+Frameworks: Express (Handlebars) | Bootstrap   
 Databases: MongoDB (Mongoose) | MySQL  
+Other tools: Node | REST | Fundamentals of GraphQL
 
  
 :coffee:    ex-barista | make a mean flatwhite  
